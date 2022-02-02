@@ -5,7 +5,7 @@ public class Main {
         multiplikationWithResult(2,3);
     }
 
-    private static int multiplikation(int value1, int value2) {
+    public static int multiplikation(int value1, int value2) {
         return value1 * value2;
     }
 
